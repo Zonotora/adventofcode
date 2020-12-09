@@ -3,8 +3,7 @@ use crate::runner;
 fn parse() -> Vec<usize> {
     let mut input: Vec<usize> = runner::read_lines("input/01")
         .unwrap()
-        .enumerate()
-        .map(|(_, s)| s.unwrap().parse::<usize>().unwrap())
+        .map(|s| s.unwrap().parse::<usize>().unwrap())
         .collect();
     input.sort();
     input
