@@ -9,3 +9,7 @@ where
     let file = File::open(filename)?;
     Ok(io::BufReader::new(file).lines())
 }
+
+pub fn result<T: std::fmt::Display>(part1: Result<T, &str>, part2: Result<T, &str>) {
+    println!("part1: {}\tpart2: {}", part1.unwrap(), part2.unwrap());
+}

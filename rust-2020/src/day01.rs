@@ -1,49 +1,43 @@
 use crate::runner;
 
-fn parse_input() -> Vec<i32> {
-    let mut input = Vec::new();
-    if let Ok(lines) = runner::read_lines("input/01") {
-        for line in lines {
-            if let Ok(ip) = line {
-                let parsed = ip.parse::<i32>().unwrap();
-                input.push(parsed);
-            }
-        }
-    }
+fn parse() -> Vec<usize> {
+    let mut input: Vec<usize> = runner::read_lines("input/01")
+        .unwrap()
+        .enumerate()
+        .map(|(_, s)| s.unwrap().parse::<usize>().unwrap())
+        .collect();
     input.sort();
     input
 }
 
-fn part1() -> i32 {
-    let input = parse_input();
-    for x in &input {
+fn part1(input: &Vec<usize>) -> Result<usize, &str> {
+    for x in input {
         let s = 2020 - x;
-        if let Ok(_) = &input.binary_search(&s) {
-            return s * x;
+        match input.binary_search(&s) {
+            Ok(_) => return Ok(s * x),
+            _ => (),
         }
     }
-    0
+    Err("Error: no value found!")
 }
 
-fn part2() -> i32 {
-    let input = parse_input();
-    for x in &input {
-        for y in &input {
+fn part2(input: &Vec<usize>) -> Result<usize, &str> {
+    for (i, x) in input.iter().enumerate() {
+        for y in input.iter().skip(i) {
             if x + y > 2020 {
                 break;
             }
             let s = 2020 - (x + y);
-            if let Ok(_) = &input.binary_search(&s) {
-                return s * x * y;
+            match input.binary_search(&s) {
+                Ok(_) => return Ok(s * x * y),
+                _ => (),
             }
         }
     }
-    0
+    Err("Error: no value found!")
 }
 
 pub fn run() {
-    let res1 = part1();
-    println!("{}", res1);
-    let res2 = part2();
-    println!("{}", res2);
+    let input = parse();
+    runner::result(part1(&input), part2(&input));
 }
