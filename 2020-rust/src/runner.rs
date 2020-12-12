@@ -1,4 +1,4 @@
-use std::fs::File;
+use std::fs::{self, File};
 use std::io::{self, BufRead};
 use std::path::Path;
 
@@ -8,6 +8,13 @@ where
 {
     let file = File::open(filename)?;
     Ok(io::BufReader::new(file).lines())
+}
+
+pub fn read<P>(filename: P) -> io::Result<String>
+where
+    P: AsRef<Path>,
+{
+    fs::read_to_string(filename)
 }
 
 pub fn result<T: std::fmt::Display>(part1: Result<T, &str>, part2: Result<T, &str>) {
