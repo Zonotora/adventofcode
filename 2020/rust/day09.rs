@@ -1,7 +1,7 @@
 use crate::runner;
 
 fn parse() -> Vec<String> {
-    runner::read_lines("input/09")
+    runner::read_lines("../input/09")
         .unwrap()
         .map(|s| s.unwrap())
         .collect()

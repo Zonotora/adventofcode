@@ -3,7 +3,7 @@ use itertools::Itertools;
 use std::collections::HashSet;
 
 fn parse() -> Vec<String> {
-    runner::read_lines("input/08")
+    runner::read_lines("../input/08")
         .unwrap()
         .map(|s| s.unwrap())
         .collect()

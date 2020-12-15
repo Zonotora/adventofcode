@@ -1,7 +1,7 @@
 use crate::runner;
 
 fn parse() -> Vec<usize> {
-    let mut input: Vec<usize> = runner::read_lines("input/01")
+    let mut input: Vec<usize> = runner::read_lines("../input/01")
         .unwrap()
         .map(|s| s.unwrap().parse::<usize>().unwrap())
         .collect();

@@ -6,7 +6,7 @@ struct Direction {
 }
 
 fn parse() -> Vec<String> {
-    runner::read_lines("input/03")
+    runner::read_lines("../input/03")
         .unwrap()
         .map(|s| s.unwrap())
         .collect()

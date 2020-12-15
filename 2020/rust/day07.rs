@@ -3,7 +3,7 @@ use std::collections::{HashMap, HashSet};
 
 fn parse() -> HashMap<String, Vec<(usize, String)>> {
     let mut bags: HashMap<String, Vec<(usize, String)>> = HashMap::new();
-    let input: Vec<(String, Vec<(usize, String)>)> = runner::read_lines("input/07")
+    let input: Vec<(String, Vec<(usize, String)>)> = runner::read_lines("../input/07")
         .unwrap()
         .map(|s| {
             let ss = s.unwrap();

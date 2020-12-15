@@ -2,7 +2,7 @@ use crate::runner;
 use std::cmp;
 
 fn parse() -> Vec<String> {
-    runner::read_lines("input/05")
+    runner::read_lines("../input/05")
         .unwrap()
         .map(|s| s.unwrap())
         .collect()
