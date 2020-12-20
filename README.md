@@ -15,7 +15,7 @@
 | 11 |           |           |
 | 12 | [✓][12rs] |           |
 | 13 | [✓][13rs] |           |
-| 14 |           |           |
+| 14 | [✓][14rs] |           |
 | 15 | [✓][15rs] |           |
 | 16 |           |           |
 | 17 |           |           |
@@ -34,5 +34,6 @@
 [10py]: https://github.com/Zonotora/adventofcode/blob/main/2020/python/10.py
 [12rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day12.rs
 [13rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day13.rs
+[14rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day14.rs
 [15rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day15.rs
 [18rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day18.rs
