@@ -12,6 +12,14 @@
 | 08 | [✓][08rs] |           |
 | 09 | [✓][09rs] |           |
 | 10 | [✓][10rs] | [✓][10py] |
+| 11 |           |           |
+| 12 | [✓][12rs] |           |
+| 13 | [✓][13rs] |           |
+| 14 |           |           |
+| 15 | [✓][15rs] |           |
+| 16 |           |           |
+| 17 |           |           |
+| 18 | [✓][18rs] |           |
 
 [01rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day01.rs
 [02rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day02.rs
@@ -24,3 +32,7 @@
 [09rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day09.rs
 [10rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day10.rs
 [10py]: https://github.com/Zonotora/adventofcode/blob/main/2020/python/10.py
+[12rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day12.rs
+[13rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day13.rs
+[15rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day15.rs
+[18rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day18.rs
