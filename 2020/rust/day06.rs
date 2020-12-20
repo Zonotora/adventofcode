@@ -2,7 +2,7 @@ use crate::runner;
 use std::collections::HashSet;
 
 fn parse() -> Vec<String> {
-    runner::read("../input/06")
+    runner::read("input/06")
         .unwrap()
         .split("\n\n")
         .map(|s| String::from(s))

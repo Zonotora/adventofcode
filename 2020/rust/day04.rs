@@ -3,7 +3,7 @@ use itertools::Itertools;
 use regex::Regex;
 
 fn parse() -> Vec<String> {
-    runner::read("../input/04")
+    runner::read("input/04")
         .unwrap()
         .split("\n\n")
         .map(|s| String::from(s.split("\n").join(" ")))
