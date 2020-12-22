@@ -7,7 +7,7 @@ namespace AOC2020
 {
     public class Day01 {
         public static void Run(string input) {
-            int[] lines = input.Split("\n").Select(x => int.Parse(x)).ToArray();
+            int[] lines = input.Split("\n").Where(x => x != "").Select(x => int.Parse(x)).ToArray();
             Array.Sort(lines);
 
             void Part1() {
