@@ -3,3 +3,5 @@
 **/input/test
 **/typescript/**
 !**/typescript/*.ts
+**/c-sharp/bin
+**/c-sharp/obj
