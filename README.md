@@ -20,6 +20,10 @@
 | 16 | [✓][16rs] |           |           |           |
 | 17 |           |           |           |           |
 | 18 | [✓][18rs] |           |           |           |
+| 19 |           |           |           |           |
+| 20 |           |           |           |           |
+| 21 |           |           |           |           |
+| 22 | [✓][22rs] |           |           |           |
 
 [01rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day01.rs
 [01ts]: https://github.com/Zonotora/adventofcode/blob/main/2020/typescript/01.ts
@@ -41,3 +45,4 @@
 [15rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day15.rs
 [16rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day16.rs
 [18rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day18.rs
+[22rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day22.rs
