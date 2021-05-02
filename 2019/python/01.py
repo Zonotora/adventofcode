@@ -1,5 +1,9 @@
-part1 = sum([int(mass) // 3 - 2 for mass in  open("../input/01").readlines()])
-print(part1)
+# flake8: noqa
+
+from python import *
+
+aoc = AdventOfCode("2019", "01", "The Tyranny of the Rocket Equation", newint)
+
 
 def get_fuel(mass):
     mass = int(mass) // 3 - 2
@@ -7,5 +11,14 @@ def get_fuel(mass):
         return 0
     return mass + get_fuel(mass)
 
-part2 = sum([get_fuel(mass) for mass in  open("../input/01").readlines()])
-print(part2)
+@aoc.part(1)
+def part1(items):
+    return sum([mass // 3 - 2 for mass in items]) 
+
+
+@aoc.part(2)
+def part2(items):
+    return sum([get_fuel(mass) for mass in items])
+
+if __name__ == "__main__":
+    aoc.solve()
