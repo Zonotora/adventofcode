@@ -55,7 +55,7 @@
 
 |    | rs        | py        | ts        | cs        |
 | -  | -         | -         | -         | -         |
-| 10 |           | [✓][01py] |           |           |
+| 01 |           | [✓][01py] |           |           |
 
 
 [01py]: https://github.com/Zonotora/adventofcode/blob/main/2019/python/01.py
