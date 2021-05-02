@@ -1,5 +1,7 @@
 # adventofcode
 
+## 2020
+
 |    | rs        | py        | ts        | cs        |
 | -  | -         | -         | -         | -         |
 | 01 | [✓][01rs] |           | [✓][01ts] | [✓][01cs] |
@@ -47,3 +49,13 @@
 [17rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day17.rs
 [18rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day18.rs
 [22rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day22.rs
+
+
+## 2019
+
+|    | rs        | py        | ts        | cs        |
+| -  | -         | -         | -         | -         |
+| 10 |           | [✓][01py] |           |           |
+
+
+[01py]: https://github.com/Zonotora/adventofcode/blob/main/2019/python/01.py
