@@ -13,7 +13,7 @@ from python.preprocess import (
 )
 
 # from python.numbertheory import
-from python.vector import Point
+from python.point import Point
 
 __all__ = [
     "AdventOfCode",

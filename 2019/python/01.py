@@ -11,14 +11,16 @@ def get_fuel(mass):
         return 0
     return mass + get_fuel(mass)
 
+
 @aoc.part(1)
 def part1(items):
-    return sum([mass // 3 - 2 for mass in items]) 
+    return sum([mass // 3 - 2 for mass in items])
 
 
 @aoc.part(2)
 def part2(items):
     return sum([get_fuel(mass) for mass in items])
+
 
 if __name__ == "__main__":
     aoc.solve()
