@@ -26,7 +26,7 @@ class AdventOfCode:
 
     def solve(self):
 
-        print(f"Year {self.year} Day {self.day}")
+        print(f"Year {self.year} Day {self.day} --- {self.name}\n")
         for key in self.parts:
             start = time.time()
             ans = self.parts[key](self.input)
