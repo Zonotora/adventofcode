@@ -18,10 +18,7 @@ def part1(items):
 def part2(items):
     cnt = 0
     for i in range(len(items) - 3):
-        if (
-            items[i + 1] + items[i + 2] + items[i + 3]
-            > items[i] + items[i + 1] + items[i + 2]
-        ):
+        if items[i + 3] > items[i]:
             cnt += 1
     return cnt
 

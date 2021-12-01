@@ -1,5 +1,14 @@
 # adventofcode
 
+
+## 2021
+
+|    | rs        | py             | ts        | cs        |
+| -  | -         | -              | -         | -         |
+| 01 |           | [✓][2021-01py] |           |           |
+
+[2021-01py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/01.py
+
 ## 2020
 
 |    | rs        | py        | ts        | cs        |
