@@ -12,8 +12,9 @@ from python.preprocess import (
     newnewint,
 )
 
-# from python.numbertheory import
 from python.point import Point
+from python.misc import each_cons
+
 
 __all__ = [
     "AdventOfCode",
@@ -27,4 +28,5 @@ __all__ = [
     "newint",
     "newnew",
     "newnewint",
+    "each_cons",
 ]
