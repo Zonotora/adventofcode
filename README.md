@@ -7,9 +7,11 @@
 | -  | -         | -              | -         | -         |
 | 01 |           | [✓][2021-01py] |           |           |
 | 02 |           | [✓][2021-02py] |           |           |
+| 03 |           | [✓][2021-03py] |           |           |
 
 [2021-01py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/01.py
 [2021-02py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/02.py
+[2021-03py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/03.py
 
 ## 2020
 
