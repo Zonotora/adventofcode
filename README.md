@@ -3,42 +3,46 @@
 
 ## 2021
 
-|    | rs        | py             | ts        | cs        |
-| -  | -         | -              | -         | -         |
-| 01 |           | [✓][2021-01py] |           |           |
-| 02 |           | [✓][2021-02py] |           |           |
-| 03 |           | [✓][2021-03py] |           |           |
+|    | rs        | py             | ts        | cs        | rb             |
+| -  | -         | -              | -         | -         | -              |
+| 01 |           | [✓][2021-01py] |           |           | [✓][2021-01rb] |
+| 02 |           | [✓][2021-02py] |           |           |                |
+| 03 |           | [✓][2021-03py] |           |           |                |
+| 04 |           | [✓][2021-04py] |           |           |                |
 
 [2021-01py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/01.py
 [2021-02py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/02.py
 [2021-03py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/03.py
+[2021-04py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/04.py
+
+[2021-01rb]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/01.rb
 
 ## 2020
 
-|    | rs        | py        | ts        | cs        |
-| -  | -         | -         | -         | -         |
-| 01 | [✓][01rs] |           | [✓][01ts] | [✓][01cs] |
-| 02 | [✓][02rs] |           |           |           |
-| 03 | [✓][03rs] |           |           |           |
-| 04 | [✓][04rs] |           |           |           |
-| 05 | [✓][05rs] |           |           |           |
-| 06 | [✓][06rs] |           |           |           |
-| 07 | [✓][07rs] |           |           |           |
-| 08 | [✓][08rs] |           |           |           |
-| 09 | [✓][09rs] |           |           |           |
-| 10 | [✓][10rs] | [✓][10py] |           |           |
-| 11 | [✓][11rs] |           |           |           |
-| 12 | [✓][12rs] |           |           |           |
-| 13 | [✓][13rs] |           |           |           |
-| 14 | [✓][14rs] |           |           |           |
-| 15 | [✓][15rs] |           |           |           |
-| 16 | [✓][16rs] |           |           |           |
-| 17 | [✓][17rs] |           |           |           |
-| 18 | [✓][18rs] |           |           |           |
-| 19 |           |           |           |           |
-| 20 |           |           |           |           |
-| 21 |           |           |           |           |
-| 22 | [✓][22rs] |           |           |           |
+|    | rs        | py        | ts        | cs        | rb        |
+| -  | -         | -         | -         | -         | -         |
+| 01 | [✓][01rs] |           | [✓][01ts] | [✓][01cs] |           |
+| 02 | [✓][02rs] |           |           |           |           |
+| 03 | [✓][03rs] |           |           |           |           |
+| 04 | [✓][04rs] |           |           |           |           |
+| 05 | [✓][05rs] |           |           |           |           |
+| 06 | [✓][06rs] |           |           |           |           |
+| 07 | [✓][07rs] |           |           |           |           |
+| 08 | [✓][08rs] |           |           |           |           |
+| 09 | [✓][09rs] |           |           |           |           |
+| 10 | [✓][10rs] | [✓][10py] |           |           |           |
+| 11 | [✓][11rs] |           |           |           |           |
+| 12 | [✓][12rs] |           |           |           |           |
+| 13 | [✓][13rs] |           |           |           |           |
+| 14 | [✓][14rs] |           |           |           |           |
+| 15 | [✓][15rs] |           |           |           |           |
+| 16 | [✓][16rs] |           |           |           |           |
+| 17 | [✓][17rs] |           |           |           |           |
+| 18 | [✓][18rs] |           |           |           |           |
+| 19 |           |           |           |           |           |
+| 20 |           |           |           |           |           |
+| 21 |           |           |           |           |           |
+| 22 | [✓][22rs] |           |           |           |           |
 
 [01rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day01.rs
 [01ts]: https://github.com/Zonotora/adventofcode/blob/main/2020/typescript/01.ts
@@ -66,9 +70,9 @@
 
 ## 2019
 
-|    | rs        | py        | ts        | cs        |
-| -  | -         | -         | -         | -         |
-| 01 |           | [✓][01py] |           |           |
+|    | rs        | py        | ts        | cs        | rb        |
+| -  | -         | -         | -         | -         | -         |
+| 01 |           | [✓][01py] |           |           |           |
 
 
 [01py]: https://github.com/Zonotora/adventofcode/blob/main/2019/python/01.py
