@@ -9,11 +9,13 @@
 | 02 |           | [✓][2021-02py] |           |           | [✓][2021-02rb] |
 | 03 |           | [✓][2021-03py] |           |           | [✓][2021-03rb] |
 | 04 |           | [✓][2021-04py] |           |           |                |
+| 05 |           | [✓][2021-05py] |           |           |                |
 
 [2021-01py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/01.py
 [2021-02py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/02.py
 [2021-03py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/03.py
 [2021-04py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/04.py
+[2021-05py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/05.py
 
 [2021-01rb]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/01.rb
 [2021-02rb]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/02.rb
