@@ -7,12 +7,12 @@ aoc = AdventOfCode("2021", "01", "", newint)
 
 @aoc.part(1)
 def part1(items):
-    pass
+    return 0
 
 
 @aoc.part(2)
 def part2(items):
-    pass
+    return 0
 
 
 if __name__ == "__main__":
