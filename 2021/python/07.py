@@ -2,7 +2,7 @@
 
 from python import *
 
-aoc = AdventOfCode("2021", "07", "", commaint)
+aoc = AdventOfCode("2021", "07", "The Treachery of Whales", commaint)
 
 
 @aoc.part(1)
