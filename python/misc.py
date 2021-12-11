@@ -27,3 +27,11 @@ def neighbours(arr, i, j):
         for x, y in pos
         if 0 <= i + y < len(arr) and 0 <= j + x < len(arr[i + y])
     ]
+
+
+def pretty_print(items, pad=2):
+    print(
+        "\n".join(
+            ["".join([f"{item:<{pad}}" for item in row]) for row in items]
+        )
+    )

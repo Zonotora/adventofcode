@@ -2,7 +2,7 @@
 
 from python import *
 
-aoc = AdventOfCode("2021", "10", "", new)
+aoc = AdventOfCode("2021", "10", "Syntax Scoring", new)
 
 scores1 = {
     ")": 3,

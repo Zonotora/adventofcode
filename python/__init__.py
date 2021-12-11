@@ -13,7 +13,7 @@ from python.preprocess import (
 )
 
 from python.point import Point
-from python.misc import each_cons, neighbours, vhneighbours
+from python.misc import each_cons, neighbours, vhneighbours, pretty_print
 
 
 __all__ = [
@@ -31,4 +31,5 @@ __all__ = [
     "each_cons",
     "neighbours",
     "vhneighbours",
+    "pretty_print",
 ]
