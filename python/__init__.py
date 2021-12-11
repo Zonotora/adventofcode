@@ -10,6 +10,7 @@ from python.preprocess import (
     newint,
     newnew,
     newnewint,
+    newcharint,
 )
 
 from python.point import Point
@@ -28,6 +29,7 @@ __all__ = [
     "newint",
     "newnew",
     "newnewint",
+    "newcharint",
     "each_cons",
     "neighbours",
     "vhneighbours",
