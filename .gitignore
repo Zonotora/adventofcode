@@ -1,3 +1,5 @@
+SESSION
+
 **/target/**
 **/template.rs
 **/input/test
@@ -5,7 +7,6 @@
 !**/typescript/*.ts
 **/c-sharp/bin
 **/c-sharp/obj
-
 
 
 

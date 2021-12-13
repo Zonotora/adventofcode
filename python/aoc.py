@@ -1,5 +1,7 @@
 import os
 import time
+from pathlib import Path
+import subprocess
 
 
 class AdventOfCode:
@@ -12,8 +14,25 @@ class AdventOfCode:
         input_path = os.path.abspath(
             os.path.join(os.path.dirname(__file__), f"../../input/{self.day}")
         )
-        with open(input_path) as f:
-            self.input = preprocess(f.read())
+        f = Path(input_path)
+
+        if not f.is_file():
+            # download file with session cookie
+            session_path = os.path.abspath(
+                os.path.join(os.path.dirname(__file__), f"../../../SESSION")
+            )
+            with open(session_path) as fsession:
+                session = fsession.read()
+                cmd = f"curl https://adventofcode.com/{year}/day/{int(day)}/input --cookie 'session={session}' --http1.1"
+                output = subprocess.check_output(cmd, shell=True)
+                output = output.decode('utf-8')
+                with open(f, "w") as ffile:
+                    ffile.write(output)
+
+        self.input = ""
+        if f.is_file():
+            with open(input_path) as f:
+                self.input = preprocess(f.read())
 
     def part(self, part):
         assert part >= 0

@@ -2,7 +2,7 @@
 
 from python import *
 
-aoc = AdventOfCode("2021", "13", "", newnew)
+aoc = AdventOfCode("2021", "13", "Transparent Origami", newnew)
 
 
 def fold(items, p1):
