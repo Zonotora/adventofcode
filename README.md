@@ -90,9 +90,11 @@
 
 ## 2019
 
-|    | rs        | py        | ts        | cs        | rb        |
-| -  | -         | -         | -         | -         | -         |
-| 01 |           | [✓][01py] |           |           |           |
+|    | rs        | py        | ts        | cs        | rb             |
+| -  | -         | -         | -         | -         | -              |
+| 01 |           | [✓][01py] |           |           | [✓][2019-01rb] |
 
 
 [01py]: https://github.com/Zonotora/adventofcode/blob/main/2019/python/01.py
+
+[2019-01rb]: https://github.com/Zonotora/adventofcode/blob/main/2019/ruby/01.rb
