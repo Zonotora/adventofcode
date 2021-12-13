@@ -2,7 +2,7 @@
 
 from python import *
 
-aoc = AdventOfCode("2021", "01", "", newint)
+aoc = AdventOfCode("2021", "01", "", new)
 
 
 @aoc.part(1)
