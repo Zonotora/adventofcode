@@ -11,18 +11,14 @@ def fold(items, p1):
     ]
     for cmd in items[1].split("\n"):
         c, v = cmd.split("=")
-        if "y" in c:
-            y = int(v)
-            for i in range(len(coords)):
-                xx, yy = coords[i]
-                if yy > y:
-                    coords[i] = [xx, max(0, y - (yy - y))]
-        else:
-            x = int(v)
-            for i in range(len(coords)):
-                xx, yy = coords[i]
-                if xx > x:
-                    coords[i] = [max(0, x - (xx - x)), yy]
+        value = int(v)
+        for i in range(len(coords)):
+            x, y = coords[i]
+            if "y" in c and y > value:
+                y = 2 * value - y
+            elif "x" in c and x > value:
+                x = 2 * value - x
+            coords[i] = [x, y]
         if p1:
             break
     return coords
