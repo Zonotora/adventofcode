@@ -14,7 +14,14 @@ from python.preprocess import (
 )
 
 from python.point import Point
-from python.misc import each_cons, neighbours, vhneighbours, pretty_print
+from python.misc import (
+    each_cons,
+    neighbours,
+    vhneighbours,
+    pretty_print,
+    sign,
+    prod,
+)
 
 
 __all__ = [
@@ -34,4 +41,6 @@ __all__ = [
     "neighbours",
     "vhneighbours",
     "pretty_print",
+    "sign",
+    "prod",
 ]

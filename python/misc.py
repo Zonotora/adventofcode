@@ -35,3 +35,17 @@ def pretty_print(items, pad=2):
             ["".join([f"{item:<{pad}}" for item in row]) for row in items]
         )
     )
+
+
+def sign(n):
+    if n >= 0:
+        return 1
+    else:
+        return -1
+
+
+def prod(items):
+    a = 1
+    for item in items:
+        a *= item
+    return a
