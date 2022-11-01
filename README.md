@@ -116,3 +116,19 @@
 [01py]: https://github.com/Zonotora/adventofcode/blob/main/2019/python/01.py
 
 [2019-01rb]: https://github.com/Zonotora/adventofcode/blob/main/2019/ruby/01.rb
+
+## 2015
+
+|    | rs        | py             | ts        | cs        | rb             |
+| -  | -         | -              | -         | -         | -              |
+| 01 |           | [✓][2015-01py] |           |           |                |
+| 02 |           | [✓][2015-02py] |           |           |                |
+| 03 |           | [✓][2015-03py] |           |           |                |
+| 04 |           | [✓][2015-04py] |           |           |                |
+| 05 |           | [✓][2015-05py] |           |           |                |
+
+[2015-01py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
+[2015-02py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
+[2015-03py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
+[2015-04py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
+[2015-05py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
