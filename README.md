@@ -128,7 +128,7 @@
 | 05 |           | [✓][2015-05py] |           |           |                |
 
 [2015-01py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
-[2015-02py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
-[2015-03py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
-[2015-04py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
-[2015-05py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
+[2015-02py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/02.py
+[2015-03py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/03.py
+[2015-04py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/04.py
+[2015-05py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/05.py
