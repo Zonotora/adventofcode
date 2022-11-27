@@ -34,5 +34,9 @@ def newnewint(s):
     return [int(line.strip()) for line in s.strip().split("\n\n")]
 
 
+def newchar(s):
+    return [[c for c in line] for line in s.strip().split("\n")]
+
+
 def newcharint(s):
     return [[int(c) for c in line] for line in s.strip().split("\n")]

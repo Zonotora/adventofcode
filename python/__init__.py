@@ -10,6 +10,7 @@ from python.preprocess import (
     newint,
     newnew,
     newnewint,
+    newchar,
     newcharint,
 )
 
@@ -22,6 +23,7 @@ from python.misc import (
     sign,
     prod,
 )
+from python.graph import Graph, Edge, DirectedEdge
 
 
 __all__ = [
@@ -36,6 +38,7 @@ __all__ = [
     "newint",
     "newnew",
     "newnewint",
+    "newchar",
     "newcharint",
     "each_cons",
     "neighbours",
@@ -43,4 +46,7 @@ __all__ = [
     "pretty_print",
     "sign",
     "prod",
+    "Graph",
+    "Edge",
+    "DirectedEdge",
 ]

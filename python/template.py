@@ -1,6 +1,9 @@
 # flake8: noqa
 
 from python import *
+import sys
+import numpy as np
+from collections import defaultdict
 
 aoc = AdventOfCode("2021", "01", "", new)
 
