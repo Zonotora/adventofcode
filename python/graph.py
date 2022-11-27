@@ -33,9 +33,12 @@ class Graph:
             vertices.add(edge.dst)
         return list(sorted(vertices))
 
+    def vertices_mapping(vertices) -> dict[str, int]:
+        return {v: i for i, v in enumerate(vertices)}
+
     def adjacency(n, vertices, edges) -> list[list[int]]:
         grid = [[0 for _ in range(n)] for _ in range(n)]
-        mapping = {v: i for i, v in enumerate(vertices)}
+        mapping = Graph.vertices_mapping(vertices)
         for e in edges:
             i = mapping[e.src]
             j = mapping[e.dst]
