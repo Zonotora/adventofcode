@@ -31,7 +31,7 @@ def newnew(s):
 
 
 def newnewint(s):
-    return [int(line.strip()) for line in s.strip().split("\n\n")]
+    return [list(map(int, line.split("\n"))) for line in s.strip().split("\n\n")]
 
 
 def newchar(s):

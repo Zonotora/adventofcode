@@ -5,7 +5,7 @@ import sys
 import numpy as np
 from collections import defaultdict
 
-aoc = AdventOfCode("2021", "01", "", new)
+aoc = AdventOfCode("2022", "01", "", new)
 
 
 @aoc.part(1)

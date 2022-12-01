@@ -5,14 +5,13 @@ import sys
 import numpy as np
 from collections import defaultdict
 
-aoc = AdventOfCode("2022", "01", "Calorie Counting", newnew)
+aoc = AdventOfCode("2022", "01", "Calorie Counting", newnewint)
 
 
 def calories(items):
     total = []
     for item in items:
-        parts = list(map(int, item.split("\n")))
-        s = sum(parts)
+        s = sum(item)
         total.append(s)
     return total
 
