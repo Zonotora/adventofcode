@@ -1,134 +1,152 @@
 # adventofcode
 
+## 2022
+
+| | py | rs | ts | cs | rb |
+| - | - | - | - | - | - |
+| 01 | [✓][2022-python-01] | | | | |
+| 02 | [✓][2022-python-02] | | | | |
+| 03 | [✓][2022-python-03] | | | | |
+| 04 | [✓][2022-python-04] | | | | |
+| 05 | [✓][2022-python-05] | | | | |
+
+[2022-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/01.py
+[2022-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/02.py
+[2022-python-03]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/03.py
+[2022-python-04]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/04.py
+[2022-python-05]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/05.py
 
 ## 2021
 
-|    | rs        | py             | ts        | cs        | rb             |
-| -  | -         | -              | -         | -         | -              |
-| 01 |           | [✓][2021-01py] |           |           | [✓][2021-01rb] |
-| 02 |           | [✓][2021-02py] |           |           | [✓][2021-02rb] |
-| 03 |           | [✓][2021-03py] |           |           | [✓][2021-03rb] |
-| 04 |           | [✓][2021-04py] |           |           |                |
-| 05 |           | [✓][2021-05py] |           |           |                |
-| 06 |           | [✓][2021-06py] |           |           |                |
-| 07 |           | [✓][2021-07py] |           |           |                |
-| 08 |           | [✓][2021-08py] |           |           |                |
-| 09 |           | [✓][2021-09py] |           |           |                |
-| 10 |           | [✓][2021-10py] |           |           |                |
-| 11 |           | [✓][2021-11py] |           |           |                |
-| 12 |           | [✓][2021-12py] |           |           |                |
-| 13 |           | [✓][2021-13py] |           |           |                |
-| 14 |           | [✓][2021-14py] |           |           |                |
-| 15 |           | [✓][2021-15py] |           |           |                |
-| 16 |           | [✓][2021-16py] |           |           |                |
-| 17 |           | [✓][2021-17py] |           |           |                |
-| 18 |           | [✓][2021-18py] |           |           |                |
-| 20 |           | [✓][2021-20py] |           |           |                |
-| 21 |           | [✓][2021-21py] |           |           |                |
+| | py | rs | ts | cs | rb |
+| - | - | - | - | - | - |
+| 01 | [✓][2021-python-01] | | | | [✓][2021-ruby-01] |
+| 02 | [✓][2021-python-02] | | | | [✓][2021-ruby-02] |
+| 03 | [✓][2021-python-03] | | | | [✓][2021-ruby-03] |
+| 04 | [✓][2021-python-04] | | | | |
+| 05 | [✓][2021-python-05] | | | | |
+| 06 | [✓][2021-python-06] | | | | |
+| 07 | [✓][2021-python-07] | | | | |
+| 08 | [✓][2021-python-08] | | | | |
+| 09 | [✓][2021-python-09] | | | | |
+| 10 | [✓][2021-python-10] | | | | |
+| 11 | [✓][2021-python-11] | | | | |
+| 12 | [✓][2021-python-12] | | | | |
+| 13 | [✓][2021-python-13] | | | | |
+| 14 | [✓][2021-python-14] | | | | |
+| 15 | [✓][2021-python-15] | | | | |
+| 16 | [✓][2021-python-16] | | | | |
+| 17 | [✓][2021-python-17] | | | | |
+| 18 | [✓][2021-python-18] | | | | |
+| 20 | [✓][2021-python-20] | | | | |
+| 21 | [✓][2021-python-21] | | | | |
 
-[2021-01py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/01.py
-[2021-02py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/02.py
-[2021-03py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/03.py
-[2021-04py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/04.py
-[2021-05py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/05.py
-[2021-06py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/06.py
-[2021-07py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/07.py
-[2021-08py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/08.py
-[2021-09py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/09.py
-[2021-10py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/10.py
-[2021-11py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/11.py
-[2021-12py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/12.py
-[2021-13py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/13.py
-[2021-14py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/14.py
-[2021-15py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/15.py
-[2021-16py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/16.py
-[2021-17py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/17.py
-[2021-18py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/18.py
-[2021-20py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/20.py
-[2021-21py]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/21.py
-
-[2021-01rb]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/01.rb
-[2021-02rb]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/02.rb
-[2021-03rb]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/03.rb
+[2021-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/01.py
+[2021-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/02.py
+[2021-python-03]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/03.py
+[2021-python-04]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/04.py
+[2021-python-05]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/05.py
+[2021-python-06]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/06.py
+[2021-python-07]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/07.py
+[2021-python-08]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/08.py
+[2021-python-09]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/09.py
+[2021-python-10]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/10.py
+[2021-python-11]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/11.py
+[2021-python-12]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/12.py
+[2021-python-13]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/13.py
+[2021-python-14]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/14.py
+[2021-python-15]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/15.py
+[2021-python-16]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/16.py
+[2021-python-17]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/17.py
+[2021-python-18]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/18.py
+[2021-python-20]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/20.py
+[2021-python-21]: https://github.com/Zonotora/adventofcode/blob/main/2021/python/21.py
+[2021-ruby-01]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/01.rb
+[2021-ruby-02]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/02.rb
+[2021-ruby-03]: https://github.com/Zonotora/adventofcode/blob/main/2021/ruby/03.rb
 
 ## 2020
 
-|    | rs        | py        | ts        | cs        | rb        |
-| -  | -         | -         | -         | -         | -         |
-| 01 | [✓][01rs] |           | [✓][01ts] | [✓][01cs] |           |
-| 02 | [✓][02rs] |           |           |           |           |
-| 03 | [✓][03rs] |           |           |           |           |
-| 04 | [✓][04rs] |           |           |           |           |
-| 05 | [✓][05rs] |           |           |           |           |
-| 06 | [✓][06rs] |           |           |           |           |
-| 07 | [✓][07rs] |           |           |           |           |
-| 08 | [✓][08rs] |           |           |           |           |
-| 09 | [✓][09rs] |           |           |           |           |
-| 10 | [✓][10rs] | [✓][10py] |           |           |           |
-| 11 | [✓][11rs] |           |           |           |           |
-| 12 | [✓][12rs] |           |           |           |           |
-| 13 | [✓][13rs] |           |           |           |           |
-| 14 | [✓][14rs] |           |           |           |           |
-| 15 | [✓][15rs] |           |           |           |           |
-| 16 | [✓][16rs] |           |           |           |           |
-| 17 | [✓][17rs] |           |           |           |           |
-| 18 | [✓][18rs] |           |           |           |           |
-| 19 |           |           |           |           |           |
-| 20 |           |           |           |           |           |
-| 21 |           |           |           |           |           |
-| 22 | [✓][22rs] |           |           |           |           |
-| 23 |           |           |           |           |           |
-| 24 |           |           |           |           |           |
-| 25 | [✓][25rs] |           |           |           |           |
+| | py | rs | ts | cs | rb |
+| - | - | - | - | - | - |
+| 01 | | [✓][2020-rust-01] | [✓][2020-typescript-01] | [✓][2020-c-sharp-01] | |
+| 02 | | [✓][2020-rust-02] | | | |
+| 03 | | [✓][2020-rust-03] | | | |
+| 04 | | [✓][2020-rust-04] | | | |
+| 05 | | [✓][2020-rust-05] | | | |
+| 06 | | [✓][2020-rust-06] | | | |
+| 07 | | [✓][2020-rust-07] | | | |
+| 08 | | [✓][2020-rust-08] | | | |
+| 09 | | [✓][2020-rust-09] | | | |
+| 10 | [✓][2020-python-10] | [✓][2020-rust-10] | | | |
+| 11 | | [✓][2020-rust-11] | | | |
+| 12 | | [✓][2020-rust-12] | | | |
+| 13 | | [✓][2020-rust-13] | | | |
+| 14 | | [✓][2020-rust-14] | | | |
+| 15 | | [✓][2020-rust-15] | | | |
+| 16 | | [✓][2020-rust-16] | | | |
+| 17 | | [✓][2020-rust-17] | | | |
+| 18 | | [✓][2020-rust-18] | | | |
+| 22 | | [✓][2020-rust-22] | | | |
+| 25 | | [✓][2020-rust-25] | | | |
 
-[01rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day01.rs
-[01ts]: https://github.com/Zonotora/adventofcode/blob/main/2020/typescript/01.ts
-[01cs]: https://github.com/Zonotora/adventofcode/blob/main/2020/c-sharp/Day01.cs
-[02rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day02.rs
-[03rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day03.rs
-[04rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day04.rs
-[05rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day05.rs
-[06rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day06.rs
-[07rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day07.rs
-[08rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day08.rs
-[09rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day09.rs
-[10rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day10.rs
-[10py]: https://github.com/Zonotora/adventofcode/blob/main/2020/python/10.py
-[11rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day11.rs
-[12rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day12.rs
-[13rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day13.rs
-[14rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day14.rs
-[15rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day15.rs
-[16rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day16.rs
-[17rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day17.rs
-[18rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day18.rs
-[22rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day22.rs
-[25rs]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day25.rs
-
+[2020-python-10]: https://github.com/Zonotora/adventofcode/blob/main/2020/python/10.py
+[2020-rust-01]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day01.rs
+[2020-rust-02]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day02.rs
+[2020-rust-03]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day03.rs
+[2020-rust-04]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day04.rs
+[2020-rust-05]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day05.rs
+[2020-rust-06]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day06.rs
+[2020-rust-07]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day07.rs
+[2020-rust-08]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day08.rs
+[2020-rust-09]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day09.rs
+[2020-rust-10]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day10.rs
+[2020-rust-11]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day11.rs
+[2020-rust-12]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day12.rs
+[2020-rust-13]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day13.rs
+[2020-rust-14]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day14.rs
+[2020-rust-15]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day15.rs
+[2020-rust-16]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day16.rs
+[2020-rust-17]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day17.rs
+[2020-rust-18]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day18.rs
+[2020-rust-22]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day22.rs
+[2020-rust-25]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day25.rs
+[2020-typescript-01]: https://github.com/Zonotora/adventofcode/blob/main/2020/typescript/01.js
+[2020-typescript-01]: https://github.com/Zonotora/adventofcode/blob/main/2020/typescript/01.ts
+[2020-c-sharp-01]: https://github.com/Zonotora/adventofcode/blob/main/2020/c-sharp/Day01.cs
 
 ## 2019
 
-|    | rs        | py        | ts        | cs        | rb             |
-| -  | -         | -         | -         | -         | -              |
-| 01 |           | [✓][01py] |           |           | [✓][2019-01rb] |
+| | py | rs | ts | cs | rb |
+| - | - | - | - | - | - |
+| 01 | [✓][2019-python-01] | | | | [✓][2019-ruby-01] |
 
-
-[01py]: https://github.com/Zonotora/adventofcode/blob/main/2019/python/01.py
-
-[2019-01rb]: https://github.com/Zonotora/adventofcode/blob/main/2019/ruby/01.rb
+[2019-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2019/python/01.py
+[2019-ruby-01]: https://github.com/Zonotora/adventofcode/blob/main/2019/ruby/01.rb
 
 ## 2015
 
-|    | rs        | py             | ts        | cs        | rb             |
-| -  | -         | -              | -         | -         | -              |
-| 01 |           | [✓][2015-01py] |           |           |                |
-| 02 |           | [✓][2015-02py] |           |           |                |
-| 03 |           | [✓][2015-03py] |           |           |                |
-| 04 |           | [✓][2015-04py] |           |           |                |
-| 05 |           | [✓][2015-05py] |           |           |                |
+| | py | rs | ts | cs | rb |
+| - | - | - | - | - | - |
+| 01 | [✓][2015-python-01] | | | | |
+| 02 | [✓][2015-python-02] | | | | |
+| 03 | [✓][2015-python-03] | | | | |
+| 04 | [✓][2015-python-04] | | | | |
+| 05 | [✓][2015-python-05] | | | | |
+| 06 | [✓][2015-python-06] | | | | |
+| 07 | [✓][2015-python-07] | | | | |
+| 08 | [✓][2015-python-08] | | | | |
+| 09 | [✓][2015-python-09] | | | | |
+| 10 | [✓][2015-python-10] | | | | |
 
-[2015-01py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
-[2015-02py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/02.py
-[2015-03py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/03.py
-[2015-04py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/04.py
-[2015-05py]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/05.py
+[2015-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/01.py
+[2015-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/02.py
+[2015-python-03]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/03.py
+[2015-python-04]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/04.py
+[2015-python-05]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/05.py
+[2015-python-06]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/06.py
+[2015-python-07]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/07.py
+[2015-python-08]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/08.py
+[2015-python-09]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/09.py
+[2015-python-10]: https://github.com/Zonotora/adventofcode/blob/main/2015/python/10.py
+
