@@ -4,6 +4,7 @@ from python import *
 import sys
 import numpy as np
 from collections import defaultdict
+import re
 
 aoc = AdventOfCode("2022", "01", "", new)
 

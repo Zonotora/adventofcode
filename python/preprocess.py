@@ -19,7 +19,7 @@ def commaint(s):
 
 
 def new(s):
-    return [line.strip() for line in s.strip().split("\n")]
+    return [line for line in s.rstrip().split("\n")]
 
 
 def newint(s):
@@ -27,7 +27,7 @@ def newint(s):
 
 
 def newnew(s):
-    return [line.strip() for line in s.strip().split("\n\n")]
+    return [line for line in s.rstrip().split("\n\n")]
 
 
 def newnewint(s):
