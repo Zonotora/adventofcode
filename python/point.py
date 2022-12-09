@@ -30,6 +30,11 @@ class Point:
             raise ValueError("Points have different dimensions")
         return Point(*[a + b for a, b in zip(self.coords, other.coords)])
 
+    def __sub__(self, other):
+        if not self.dimension == other.dimension:
+            raise ValueError("Points have different dimensions")
+        return Point(*[a - b for a, b in zip(self.coords, other.coords)])
+
     def __mul__(self, other):
         if not self.dimension == other.dimension:
             raise ValueError("Points have different dimensions")
