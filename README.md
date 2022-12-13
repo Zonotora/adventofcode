@@ -15,6 +15,7 @@
 | 09 | [✓][2022-python-09] | | | | | |
 | 10 | [✓][2022-python-10] | | | | | |
 | 11 | [✓][2022-python-11] | | | | | |
+| 12 | [✓][2022-python-12] | | | | | |
 
 [2022-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/01.py
 [2022-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/02.py
@@ -27,6 +28,7 @@
 [2022-python-09]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/09.py
 [2022-python-10]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/10.py
 [2022-python-11]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/11.py
+[2022-python-12]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/12.py
 [2022-go-01]: https://github.com/Zonotora/adventofcode/blob/main/2022/go/01.go
 
 ## 2021

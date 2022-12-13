@@ -1,0 +1,7 @@
+with open("12") as f:
+    lines = f.readlines()
+    cnt = 0
+    for line in lines:
+        for c in line:
+            if c == "a": cnt += 1
+    print(cnt)
