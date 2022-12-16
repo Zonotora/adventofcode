@@ -15,14 +15,7 @@ from python.preprocess import (
 )
 
 from python.point import Point
-from python.misc import (
-    each_cons,
-    neighbours,
-    vhneighbours,
-    pretty_print,
-    sign,
-    prod,
-)
+from python.misc import each_cons, neighbours, vhneighbours, pretty_print, sign, prod, Interval
 from python.graph import Graph, Edge, DirectedEdge
 
 
@@ -49,4 +42,5 @@ __all__ = [
     "Graph",
     "Edge",
     "DirectedEdge",
+    "Interval",
 ]
