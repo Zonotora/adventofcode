@@ -19,6 +19,13 @@
 | 13 | [✓][2022-python-13] | | | | | |
 | 14 | [✓][2022-python-14] | | | | | |
 | 15 | [✓][2022-python-15] | | | | | |
+| 16 | [✓][2022-python-16] | | | | | |
+| 17 | [✓][2022-python-17] | | | | | |
+| 18 | [✓][2022-python-18] | | | | | |
+| 19 | [✓][2022-python-19] | | | | | |
+| 20 | [✓][2022-python-20] | | | | | |
+| 21 | [✓][2022-python-21] | | | | | |
+| 22 | [✓][2022-python-22] | | | | | |
 
 [2022-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/01.py
 [2022-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/02.py
@@ -35,6 +42,13 @@
 [2022-python-13]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/13.py
 [2022-python-14]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/14.py
 [2022-python-15]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/15.py
+[2022-python-16]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/16.py
+[2022-python-17]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/17.py
+[2022-python-18]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/18.py
+[2022-python-19]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/19.py
+[2022-python-20]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/20.py
+[2022-python-21]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/21.py
+[2022-python-22]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/22.py
 [2022-go-01]: https://github.com/Zonotora/adventofcode/blob/main/2022/go/01.go
 
 ## 2021
