@@ -5,8 +5,8 @@
 | | py | rs | go | ts | cs | rb |
 | - | - | - | - | - | - | - |
 | 01 | [✓][2022-python-01] | | [✓][2022-go-01] | | | |
-| 02 | [✓][2022-python-02] | | | | | |
-| 03 | [✓][2022-python-03] | | | | | |
+| 02 | [✓][2022-python-02] | | [✓][2022-go-02] | | | |
+| 03 | [✓][2022-python-03] | | [✓][2022-go-03] | | | |
 | 04 | [✓][2022-python-04] | | | | | |
 | 05 | [✓][2022-python-05] | | | | | |
 | 06 | [✓][2022-python-06] | | | | | |
@@ -54,6 +54,8 @@
 [2022-python-24]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/24.py
 [2022-python-25]: https://github.com/Zonotora/adventofcode/blob/main/2022/python/25.py
 [2022-go-01]: https://github.com/Zonotora/adventofcode/blob/main/2022/go/01.go
+[2022-go-02]: https://github.com/Zonotora/adventofcode/blob/main/2022/go/02.go
+[2022-go-03]: https://github.com/Zonotora/adventofcode/blob/main/2022/go/03.go
 
 ## 2021
 
