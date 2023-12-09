@@ -10,6 +10,7 @@
 | 04 | [✓][2023-python-04] | | | | | | |
 | 05 | [✓][2023-python-05] | | | | | | |
 | 06 | [✓][2023-python-06] | | [✓][2023-c-06] | | | | |
+| 07 | [✓][2023-python-07] | | | | | | |
 
 [2023-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2023/python/01.py
 [2023-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2023/python/02.py
@@ -17,6 +18,7 @@
 [2023-python-04]: https://github.com/Zonotora/adventofcode/blob/main/2023/python/04.py
 [2023-python-05]: https://github.com/Zonotora/adventofcode/blob/main/2023/python/05.py
 [2023-python-06]: https://github.com/Zonotora/adventofcode/blob/main/2023/python/06.py
+[2023-python-07]: https://github.com/Zonotora/adventofcode/blob/main/2023/python/07.py
 [2023-c-06]: https://github.com/Zonotora/adventofcode/blob/main/2023/c/06.c
 
 ## 2022
