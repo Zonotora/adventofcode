@@ -2,7 +2,7 @@ import re
 import os
 from os.path import join
 
-LANG = {"python": "py", "rust": "rs", "go": "go", "typescript": "ts", "c-sharp": "cs", "ruby": "rb"}
+LANG = {"python": "py", "rust": "rs", "c": "c", "go": "go", "typescript": "ts", "c-sharp": "cs", "ruby": "rb"}
 BASE_DIRS = sorted([f for f in os.listdir(".") if f.isnumeric()], reverse=True)
 BASE_URL = "https://github.com/Zonotora/adventofcode/blob/main/"
 
