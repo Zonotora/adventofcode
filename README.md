@@ -1,5 +1,13 @@
 # adventofcode
 
+## 2024
+
+| | py | rs | c | go | ts | cs | rb |
+| - | - | - | - | - | - | - | - |
+| 01 | [✓][2024-python-01] | | | | | | |
+
+[2024-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/01.py
+
 ## 2023
 
 | | py | rs | c | go | ts | cs | rb |
