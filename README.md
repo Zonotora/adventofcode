@@ -5,8 +5,10 @@
 | | py | rs | c | go | ts | cs | rb |
 | - | - | - | - | - | - | - | - |
 | 01 | [✓][2024-python-01] | | | | | | |
+| 02 | [✓][2024-python-02] | | | | | | |
 
 [2024-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/01.py
+[2024-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/02.py
 
 ## 2023
 
