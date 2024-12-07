@@ -19,6 +19,8 @@
 [2024-python-05]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/05.py
 [2024-python-06]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/06.py
 [2024-python-07]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/07.py
+[2024-python-2]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/out2
+[2024-python-2]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/tmp2.py
 
 ## 2023
 
