@@ -4,13 +4,14 @@
 
 | | py | rs | c | go | ts | cs | rb |
 | - | - | - | - | - | - | - | - |
-| 01 | [✓][2024-python-01] | | | | | | |
-| 02 | [✓][2024-python-02] | | | | | | |
+| 01 | [✓][2024-python-01] | | [✓][2024-c-01] | | | | |
+| 02 | [✓][2024-python-02] | | [✓][2024-c-02] | | | | |
 | 03 | [✓][2024-python-03] | | | | | | |
 | 04 | [✓][2024-python-04] | | | | | | |
 | 05 | [✓][2024-python-05] | | | | | | |
 | 06 | [✓][2024-python-06] | | | | | | |
 | 07 | [✓][2024-python-07] | | | | | | |
+| 08 | [✓][2024-python-08] | | | | | | |
 
 [2024-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/01.py
 [2024-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/02.py
@@ -19,8 +20,9 @@
 [2024-python-05]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/05.py
 [2024-python-06]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/06.py
 [2024-python-07]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/07.py
-[2024-python-2]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/out2
-[2024-python-2]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/tmp2.py
+[2024-python-08]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/08.py
+[2024-c-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/c/01.c
+[2024-c-02]: https://github.com/Zonotora/adventofcode/blob/main/2024/c/02.c
 
 ## 2023
 
