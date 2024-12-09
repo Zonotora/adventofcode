@@ -5,7 +5,7 @@
 | | py | rs | c | go | ts | cs | rb |
 | - | - | - | - | - | - | - | - |
 | 01 | [✓][2024-python-01] | | [✓][2024-c-01] | | | | |
-| 02 | [✓][2024-python-02] | | [✓][2024-c-02] | | | | |
+| 02 | [✓][2024-python-02] | | | | | | |
 | 03 | [✓][2024-python-03] | | | | | | |
 | 04 | [✓][2024-python-04] | | | | | | |
 | 05 | [✓][2024-python-05] | | | | | | |
@@ -24,7 +24,6 @@
 [2024-python-08]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/08.py
 [2024-python-09]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/09.py
 [2024-c-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/c/01.c
-[2024-c-02]: https://github.com/Zonotora/adventofcode/blob/main/2024/c/02.c
 
 ## 2023
 
