@@ -14,6 +14,7 @@
 | 08 | [✓][2024-python-08] | | | | | | |
 | 09 | [✓][2024-python-09] | | | | | | |
 | 10 | [✓][2024-python-10] | | | | | | |
+| 11 | [✓][2024-python-11] | | | | | | |
 
 [2024-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/01.py
 [2024-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/02.py
@@ -25,6 +26,7 @@
 [2024-python-08]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/08.py
 [2024-python-09]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/09.py
 [2024-python-10]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/10.py
+[2024-python-11]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/11.py
 [2024-c-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/c/01.c
 
 ## 2023
