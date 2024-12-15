@@ -18,6 +18,7 @@
 | 12 | [✓][2024-python-12] | | | | | | |
 | 13 | [✓][2024-python-13] | | | | | | |
 | 14 | [✓][2024-python-14] | | | | | | |
+| 15 | [✓][2024-python-15] | | | | | | |
 
 [2024-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/01.py
 [2024-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/02.py
@@ -33,10 +34,7 @@
 [2024-python-12]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/12.py
 [2024-python-13]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/13.py
 [2024-python-14]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/14.py
-[2024-python-1]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/a.1
-[2024-python-2]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/a.2
-[2024-python-1]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/out1
-[2024-python-2]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/out2
+[2024-python-15]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/15.py
 [2024-c-01]: https://github.com/Zonotora/adventofcode/blob/main/2024/c/01.c
 
 ## 2023
