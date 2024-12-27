@@ -50,6 +50,7 @@
 [2024-python-18]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/18.py
 [2024-python-19]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/19.py
 [2024-python-20]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/20.py
+[2024-python-21]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/21.old.py
 [2024-python-21]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/21.py
 [2024-python-21]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/21.txt
 [2024-python-22]: https://github.com/Zonotora/adventofcode/blob/main/2024/python/22.py
