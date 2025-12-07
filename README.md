@@ -1,5 +1,17 @@
 # adventofcode
 
+## 2025
+
+| | py | rs | c | go | ts | cs | rb |
+| - | - | - | - | - | - | - | - |
+| 01 | [✓][2025-python-01] | | | | | | |
+| 02 | [✓][2025-python-02] | | | | | | |
+| 03 | [✓][2025-python-03] | | | | | | |
+
+[2025-python-01]: https://github.com/Zonotora/adventofcode/blob/main/2025/python/01.py
+[2025-python-02]: https://github.com/Zonotora/adventofcode/blob/main/2025/python/02.py
+[2025-python-03]: https://github.com/Zonotora/adventofcode/blob/main/2025/python/03.py
+
 ## 2024
 
 | | py | rs | c | go | ts | cs | rb |
@@ -234,7 +246,6 @@
 [2020-rust-18]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day18.rs
 [2020-rust-22]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day22.rs
 [2020-rust-25]: https://github.com/Zonotora/adventofcode/blob/main/2020/rust/day25.rs
-[2020-typescript-01]: https://github.com/Zonotora/adventofcode/blob/main/2020/typescript/01.js
 [2020-typescript-01]: https://github.com/Zonotora/adventofcode/blob/main/2020/typescript/01.ts
 [2020-c-sharp-01]: https://github.com/Zonotora/adventofcode/blob/main/2020/c-sharp/Day01.cs
 
